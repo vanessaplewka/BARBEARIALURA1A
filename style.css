@@ -1,7 +1,7 @@
 body{
 
 }
-#banner {
+#banner { 
     width: 100%;
 }
 .principal
@@ -16,7 +16,7 @@ p {
     text-align: center;
 }
 em strong {
-    text-align: center;
+    color:rgb(255, 223, 196)
 }
 #missao {
     font-size: 20px;
